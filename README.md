@@ -9,7 +9,7 @@ Desenvolvedora em formação com foco em automações que resolvem problemas rea
 
 ## Sobre mim
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas 
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (UNICSUL)
 👩🏻‍💻 Estagiária em um escritório de advocacia desde abril/2024  
 ⌨️ Foco atual: Automatização de processos 
 📍 São Paulo – SP
