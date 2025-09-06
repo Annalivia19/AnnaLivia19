@@ -13,7 +13,7 @@ Desenvolvedora em formação com foco em automações que resolvem problemas rea
 
 ⌨️ Foco atual: Automatização de processos 
 
-📍 São Paulo – SP
+📍  São Paulo – SP
 
 ## 🛠️ Tecnologias e ferramentas
 
