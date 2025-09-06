@@ -10,7 +10,9 @@ Desenvolvedora em formação com foco em automações que resolvem problemas rea
 ## Sobre mim
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (UNICSUL)
+
 ⌨️ Foco atual: Automatização de processos 
+
 📍 São Paulo – SP
 
 ## 🛠️ Tecnologias e ferramentas
