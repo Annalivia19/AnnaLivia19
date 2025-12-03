@@ -1,5 +1,5 @@
 ## 🩷 Anna Lívia
-Desenvolvedora em formação com foco em automações que resolvem problemas reais. Atualmente atuo com **automação de sistemas jurídicos** como **PJe, TRF3, ESAJ e TRT2**, usando **Node.js**, **Puppeteer**, **JavaScript** e **certificado digital**.
+Desenvolvedora em formação com foco em automações que resolvem problemas reais. Atuei com **automação de sistemas jurídicos** como **PJe, TRF3, ESAJ e TRT2**, usando **Node.js**, **Puppeteer**, **JavaScript** e **certificado digital**.
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -11,7 +11,7 @@ Desenvolvedora em formação com foco em automações que resolvem problemas rea
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (UNICSUL)
 
-⌨️ Foco atual: Automatização de processos 
+⌨️ Foco atual: Automatização de processos / DevOps
 
 📍  São Paulo – SP
 
@@ -22,7 +22,7 @@ Desenvolvedora em formação com foco em automações que resolvem problemas rea
 - **Back-end:** Express.js, Multer
 - **Sistemas Jurídicos:** PJe (TRF3, TRT2), ESAJ (TJSP)
 - **Ambiente:** Linux
-- **Outros:** Git, GitHub, Certificados A3 (SafeNet, Certisign)
+- **Outros:** Git, GitHub, Certificados A3 (SafeNet, Certisign), Protocolos de Rede
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaLivia19&layout=compact&theme=dracula" />
@@ -48,6 +48,7 @@ Desenvolvedora em formação com foco em automações que resolvem problemas rea
 - Segurança da Informação (SIEM e Red Team)
 - Integração de automações com front-end (HTML/CSS/JS)
 - Boas práticas com Git e deploy de aplicações
+- Integração de Operação com Desenvolvimento 
 
 ## ✉️ Contato
 
