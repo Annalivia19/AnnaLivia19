@@ -1,6 +1,6 @@
 ## 🩷 Anna Lívia
-Desenvolvedora em formação com foco em automações que resolvem problemas reais. Atuei com **automação de sistemas jurídicos** como **PJe, TRF3, ESAJ e TRT2**, usando **Node.js**, **Puppeteer**, **JavaScript** e **certificado digital**.
-
+Desenvolvedora em formação com foco em automações que resolvem problemas reais. Atuei com **automação de sistemas jurídicos** como **PJe, TRF3, ESAJ e TRT2**, usando **Node.js**, **Puppeteer**, **JavaScript** e **certificado digital**. Possuo experiência na área operacional, solucinando **instabilidades de rede**
+e auxiliando na **manutenção e **configuração de **sistemas operacionais**
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,js,html,css,mysql,linux" />
