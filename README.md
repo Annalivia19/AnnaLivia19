@@ -21,7 +21,7 @@ Desenvolvedora em formação com foco em automações que resolvem problemas rea
 - **Automação:** Node.js, Puppeteer
 - **Back-end:** Express.js, Multer
 - **Sistemas Jurídicos:** PJe (TRF3, TRT2), ESAJ (TJSP)
-- **Ambiente:** Linux
+- **Ambiente:** Linux, Windows, Windows AD
 - **Outros:** Git, GitHub, Certificados A3 (SafeNet, Certisign), Protocolos de Rede
 
 <p align="center">
